@@ -1,0 +1,9 @@
+# Herramientas de IA y asistentes
+.agent/
+.agents/
+.claude/
+.codex/
+.gemini/
+.impeccable/
+.kiro/
+.opencode/
